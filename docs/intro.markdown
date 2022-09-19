@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Introduction
+permalink: /intro/
 ---
 
 VMware Tanzu reduces that complexity. It’s a modular, cloud native application platform that makes it easier to build, deliver, and operate cloud native apps in a multi-cloud world—enabling innovation to happen on your terms.
